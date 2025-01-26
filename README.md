@@ -7,3 +7,11 @@
 <h3 align="center">A software developer passionate about AI and machine learning.</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently exploring **Devops, AI**
+
+💬 Ask me about **Next.js, React, Typescript... or anything [here](https://github.com/sayanChaterjee/sayanChaterjee/issues)**
+
+ </div>
