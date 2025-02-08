@@ -1,6 +1,5 @@
 
-<img src="![image](https://github.com/user-attachments/assets/45d2204e-bdca-430c-ba3e-98e7e06812a2)
-" />
+<img src="https://github.com/user-attachments/assets/45d2204e-bdca-430c-ba3e-98e7e06812a2" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sayanChaterjee.sayanChaterjee" />
 
