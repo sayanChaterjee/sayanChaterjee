@@ -54,9 +54,11 @@
   
   <br/><br/><br/>
 </div>
-<h2 align="center"> 🏆 GitHub Trophies </h2>
-
+<div align="center">
+    <h2 align="center"> 🏆 GitHub Trophies </h2>
+    
 ![](https://github-profile-trophy.vercel.app/?username=sayanChaterjee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 
 <hr/>
