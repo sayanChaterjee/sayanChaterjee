@@ -67,9 +67,9 @@
 <div align=center>
   <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sayanChaterjee&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
     
-  ![](https://github-readme-stats.vercel.app/api?username=sayanChaterjee&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=sayanChaterjee&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanu2206&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanChaterjee&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
