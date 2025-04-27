@@ -69,7 +69,7 @@
     
   ![](https://github-readme-stats.vercel.app/api?username=sayanChaterjee&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanChaterjee&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanu2206&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
